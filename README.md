@@ -2,7 +2,7 @@
 This is the assignment1 for UCSD's CSE 202 WI20
 
 ## Description:
-![description](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/prog-01.pdf)
+Link to original problem[Link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/prog-01.pdf)
 
 ## How to Run
 * 1.  Run make in the terminal
