@@ -55,7 +55,6 @@ if __name__ == "__main__":
     for i in visit.keys():
         visit[i] = False
     DFS_2(adj_list,start,True)
-    print(result)
     with open("output.txt","w") as f:
         f.write(str(len(result)+1)+"\n")
         f.write("v"+str(start))
