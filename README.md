@@ -1,5 +1,6 @@
 # Algorithms
 *This is the repository for UCSD CSE 202 WI20, Algorithms Design and Analysis by Prof. Ragesh Jaiswal*
+Link to the course's page *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/index.html)*
 
 ## Assignment 1
 This is the link to assignment 1 *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/hw-01.pdf)*  
