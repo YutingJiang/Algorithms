@@ -10,7 +10,13 @@ As well as the programming problem *[link](https://cseweb.ucsd.edu/~rajaiswal/Wi
 ## Assignment 2
 This is the link to assignment 2 *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/hw-02.pdf)*  
 As well as the programming problem *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/prog-02.pdf)*  
-  
+ 
+ ## Assignment 3
+This is the link to assignment 3 *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/hw-03.pdf)*  
+
+## Assignment 4
+This is the link to assignment 4 *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/hw-04.pdf)*  
+As well as the programming problem *[link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse202/Homework/prog-04.pdf)*  
   
   
   
