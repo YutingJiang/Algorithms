@@ -6,5 +6,5 @@ Link to original problem[Link](https://cseweb.ucsd.edu/~rajaiswal/Winter2020/cse
 
 ## How to Run
 * 1.  Run make in the terminal 
-* 2. ./checkmatrix ***make sure the input.txt file is in the same directory***
+* 2. ./eggdrop ***make sure the input.txt file is in the same directory***
 * 3. The result is stored in *output.txt*
